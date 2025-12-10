@@ -1,0 +1,16 @@
+{
+  "short_name": "Moli",
+  "name": "Moli: Python Laboratuvarı",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/google-fonts/noto-emoji/main/svg/emoji_u1f9ea.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4f46e5",
+  "background_color": "#f8fafc",
+  "orientation": "portrait"
+}
